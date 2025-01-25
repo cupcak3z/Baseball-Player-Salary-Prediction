@@ -1,0 +1,30 @@
+Scaling
+
+-------------------------------
+current
+train_r-sq: 0.23408552694450446 
+ test_r-sq: 0.22976176157420625
+-------------------------------
+Standard
+train_r-sq: 0.23408552694450424 
+ test_r-sq: 0.22976176157420658
+
+meanNormalisation
+train_r-sq: 0.23408552694450424 
+ test_r-sq: 0.22976176157420658
+
+minmax
+train_r-sq: 0.23408552694450446 
+ test_r-sq: 0.2297617615742068
+
+maxabsolute
+train_r-sq: 0.23408552694450435 
+ test_r-sq: 0.22976176157420636
+
+center + maxabs
+train_r-sq: 0.23408552694450424 
+ test_r-sq: 0.22976176157420658
+
+robust
+train_r-sq: 0.23408552694450424 
+ test_r-sq: 0.22976176157420647

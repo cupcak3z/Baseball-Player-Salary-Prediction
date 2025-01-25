@@ -1,0 +1,353 @@
+Transformation of Numeric Columns
+-------------------------------
+current
+train_r-sq: 0.22848603071017592 
+ test_r-sq: 0.22565733163895674
+
+-------------------------------
+transformation: h_x
+Log
+nil
+
+Reciprocal
+nil
+
+Power (root)
+train_r-sq: 0.22904446343172968 
+ test_r-sq: 0.22579820440041765nil
+
+Power (power)
+train_r-sq: 0.22892882037758977 
+ test_r-sq: 0.22572879654395928
+
+BoxCox
+nil
+
+YeoJohnson (best)
+train_r-sq: 0.2296331825128075 
+ test_r-sq: 0.22615512554168526
+
+-------------------------------
+transformation: double
+log
+nil
+
+reciprocal
+nil
+
+power(root)
+train_r-sq: 0.22965823870919044 
+ test_r-sq: 0.22587052777714844
+
+power(power)
+train_r-sq: 0.2296220347553276 
+ test_r-sq: 0.2257934292816075
+
+boxcox
+nil
+
+yeojohnson (best)
+train_r-sq: 0.2297623435890045 
+ test_r-sq: 0.22616608792433412
+
+-------------------------------
+transformation: triple
+log
+nil
+
+reciprocal
+nil
+
+power(root) (best)
+train_r-sq: 0.2302141450033074 
+ test_r-sq: 0.22448859011863231
+
+power(power)
+train_r-sq: 0.2300261189826922 
+ test_r-sq: 0.22424490072283976
+
+Boxcox
+nil
+
+yeojohnson
+train_r-sq: 0.22976613990639072 
+ test_r-sq: 0.223872554936
+
+-------------------------------
+transformation: hr_x
+log
+nil
+
+reciprocal
+nil
+
+power(root)
+train_r-sq: 0.2265972265416848 
+ test_r-sq: 0.22015650533515585
+
+power(power)
+train_r-sq: 0.2266128871068125 
+ test_r-sq: 0.22010266606506312
+
+boxcox
+nil
+
+yeojohnson
+train_r-sq: 0.22660408604997906 
+ test_r-sq: 0.22013464322363896
+
+-------------------------------
+transformation: rbi
+log
+nil
+
+reciprocal
+nil
+
+power(root)
+train_r-sq: 0.2287112920166533 
+ test_r-sq: 0.2239377940620123
+
+power(power)
+train_r-sq: 0.2287084223553102 
+ test_r-sq: 0.2239419386374777
+
+boxcox
+nil
+
+yeojohnson
+train_r-sq: 0.22856298396301322 
+ test_r-sq: 0.22374734401828955
+
+-------------------------------
+transformation: bb_x
+log
+nil
+
+reciprocal
+nil
+
+power(root)
+train_r-sq: 0.2223034893799105 
+ test_r-sq: 0.21926140297574215
+
+power(power)
+train_r-sq: 0.22166131575373937 
+ test_r-sq: 0.21881587054768437
+
+boxcox
+nil
+
+yeojohnson
+train_r-sq: 0.2221292620629255 
+ test_r-sq: 0.2189478698750823
+
+-------------------------------
+transformation: ab
+log
+nil
+
+reciprocal
+nil
+
+power(root)
+train_r-sq: 0.23003290331173554 
+ test_r-sq: 0.22580549409221795
+
+power(power)
+train_r-sq: 0.2299312025324699 
+ test_r-sq: 0.22568723028220028
+
+boxcox
+nil
+
+yeojohnson (best)
+train_r-sq: 0.23033006659699085 
+ test_r-sq: 0.2261091863010556
+
+-------------------------------
+transformation: g_y
+log
+train_r-sq: 0.23086310094673312 
+ test_r-sq: 0.22739147457987208
+
+reciprocal
+train_r-sq: 0.22667447809798702 
+ test_r-sq: 0.221854459220312
+
+power(root) (best)
+train_r-sq: 0.2316044461221407 
+ test_r-sq: 0.22823344014321145
+
+power(power)
+train_r-sq: 0.23157729741895117 
+ test_r-sq: 0.22821735452378022
+
+boxcox
+train_r-sq: 0.23133249064062755 
+ test_r-sq: 0.2279652176657434
+
+yeojohnson
+train_r-sq: 0.23143403104382265 
+ test_r-sq: 0.22814069941040205
+
+-------------------------------
+transformation: po
+log
+nil
+
+reciprocal
+nil
+
+power(root) (best)
+train_r-sq: 0.23167363175800249 
+ test_r-sq: 0.22817347033058277
+
+power(power)
+train_r-sq: 0.23164465359333675 
+ test_r-sq: 0.22811093144406047
+
+boxcox
+nil
+
+yeojohnson
+train_r-sq: 0.2316290386991151 
+ test_r-sq: 0.22801552885746645
+
+-------------------------------
+transformation: a
+log
+nil
+
+reciprocal
+nil
+
+power(root)
+train_r-sq: 0.2325889012106389 
+ test_r-sq: 0.22900316915880514
+
+power(power)
+train_r-sq: 0.23261488118820417 
+ test_r-sq: 0.22901403825643052
+
+boxcox
+nil
+
+yeojohnson (best)
+train_r-sq: 0.23277611990605684 
+ test_r-sq: 0.22904079502499997
+
+-------------------------------
+transformation: e
+log
+nil
+
+reciprocal
+nil
+
+power(root)
+train_r-sq: 0.23115092916478486 
+ test_r-sq: 0.2277034079913558
+
+power(power)
+train_r-sq: 0.23108686436178616 
+ test_r-sq: 0.22768753859698942
+
+boxcox
+nil
+
+yeojohnson
+train_r-sq: 0.23103690111756903 
+ test_r-sq: 0.2277419856652192
+
+-------------------------------
+transformation: bat_ave
+log
+nil
+
+reciprocal
+nil
+
+power(root) (best)
+train_r-sq: 0.23282825488664094 
+ test_r-sq: 0.22906723639940707
+
+power(power)
+train_r-sq: 0.23281073944024233 
+ test_r-sq: 0.22905663447666824
+
+boxcox
+nil
+
+yeojohnson
+train_r-sq: 0.23281967004549697 
+ test_r-sq: 0.22906525054339721
+
+-------------------------------
+transformation: obp
+log
+nil
+
+reciprocal
+nil
+
+power(root)
+train_r-sq: 0.23279860046467848 
+ test_r-sq: 0.22909500804513283
+
+power(power)
+train_r-sq: 0.23279163238785083 
+ test_r-sq: 0.22909976188111647
+
+boxcox
+nil
+
+yeojohnson
+train_r-sq: 0.23282408601917037 
+ test_r-sq: 0.2290699919751299
+
+-------------------------------
+transformation: slg
+log
+nil
+
+reciprocal
+nil
+
+power(root)
+train_r-sq: 0.23282703105669578 
+ test_r-sq: 0.22903467916261078
+
+power(power)
+train_r-sq: 0.23282920776979366 
+ test_r-sq: 0.22903198764672006
+
+boxcox
+nil
+
+yeojohnson
+train_r-sq: 0.23282495486896193 
+ test_r-sq: 0.22906087421983012
+
+-------------------------------
+transformation: field_per
+log
+nil
+
+reciprocal
+nil
+
+power(root)
+train_r-sq: 0.23272154223968833 
+ test_r-sq: 0.229095177444947
+
+power(power)
+train_r-sq: 0.23271704539352156 
+ test_r-sq: 0.22908973238271357
+
+boxcox
+nil
+
+yeojohnson
+train_r-sq: 0.23301508591394626 
+ test_r-sq: 0.22887907101582639
