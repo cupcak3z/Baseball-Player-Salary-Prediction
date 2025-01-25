@@ -1,4 +1,4 @@
-# Baseball-Player-Salary-Prediction
+# Baseball Player Salary Prediction
 
 ## Background
 In the competitive world of professional baseball, teams in the leagues are always looking for competitive advantages over their opponents. An important and viable aspect is predicting and determining the future salaries of the players. Accurate predictions can assist teams in decision-making, financial planning and budgeting, and strategic planning. However, predicting the salaries of baseball players can be difficult as there are many different factors, such as health factors and injury risks, market dynamics and competition, and team financial resources and strategies, that can affect the salary prediction outcomes.
